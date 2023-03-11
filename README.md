@@ -43,6 +43,12 @@ You may want to delete binaries created by the ``make`` command.
 To do this, open a terminal in the ```"src"``` folder and in the terminal type:
 ``` $ make clean ```
 
+## Screenshots
+
+|           Menu            |           Gameplay        |        Leaderboard        |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|![Menu](screenshots/breakout_menu.png "Menu")|![Gameplay](screenshots/breakout.png "Gameplay")|![Leaderboard](screenshots/breakout_highscores.png "Leaderboard")|
+
 ---
 
 Last update 09/01/2021.
