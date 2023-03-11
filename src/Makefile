@@ -2,6 +2,7 @@ APPNAME=breakout
 
 IDIR=../include
 ODIR=obj
+BUILD_FOLDER := $(shell mkdir -p $(ODIR))
 
 CC=gcc
 CFLAGS= -pedantic -Wall -Wextra -g -fsanitize=address -O3 -I$(IDIR)
